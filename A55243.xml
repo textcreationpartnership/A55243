@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem on England's happiness</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55243</idno><idno type="EEBO-CITATION">13367336</idno>
+  <idno type="VID">99278</idno>
+  <idno type="EEBO-PROQUEST">2248540818</idno>
+  
+            <idno type="STC">Wing P2684</idno>
+            <idno type="STC">ESTC R33470</idno>
+            <idno type="OCLC">13367336</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1554:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem on England's happiness</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99278:1"/>
+            <head>A POEM ON ENGLAND'S HAPPINESS.</head>
+            <lg>
+               <l>IN vain, did Heaven it's Miracles produce,</l>
+               <l>When man would put them to no Pious Use:</l>
+               <l>In vain the Deity, our Good design'd,</l>
+               <l>When-self-will'd man, was otherwise inclin'd:</l>
+               <l>Bliss from above, but to no purpose flows,</l>
+               <l>When men will stubbornly the Bliss oppose:</l>
+               <l>In vain the Heaven's does man with Good Caress,</l>
+               <l>When man resisteth his own Happiness:</l>
+               <l>Unconstant man, that for uncertain Noise,</l>
+               <l>Would ha zar'd all the Good he now enjoys;</l>
+               <l>And but to satisfie inbridled Will,</l>
+               <l>Would change a present <hi>Good,</hi> for future <hi>Ill;</hi>
+               </l>
+               <l>Who, when a <hi>God-like Monarch</hi> does Command,</l>
+               <l>In the hard Rule of this unworthy Land;</l>
+               <l>A <hi>God-like Monarch,</hi> who beyond what we</l>
+               <l>Have merrited from such great Dignity:</l>
+               <l>His Virtue in abundant measure shew'd,</l>
+               <l>By wincking at our black Ingratitude,</l>
+               <l>Whilst with a Bounty, scarce heard of before,</l>
+               <l>He offers to increase our blessings Store.</l>
+               <l>The Bruitish Land, so strangely does reject,</l>
+               <l>The <hi>Good</hi> we might from such a King expect:</l>
+               <l>In meager stubbornness they'd rather live,</l>
+               <l>Then on the <hi>Canaan</hi> of his Bounty thrive;</l>
+               <l>We like the <hi>Jews,</hi> when the Supream Power,</l>
+               <l>Did down from Heaven, his pleasant <hi>Manna</hi> shower;</l>
+               <l>With Envy murmur, and shall murmur on,</l>
+               <l>'Till Heaven it's Pestilential Wrath send down;</l>
+               <l>And by Affliction, teach us how to Prize</l>
+               <l>The <hi>Manna</hi> of our first Felicities;</l>
+               <l>And if it's <hi>Goodness</hi> should at last restore,</l>
+               <l>The Bliss we might have well enjoy'd before;</l>
+               <l>Remembring the <hi>Ill,</hi> we did our selves Create,</l>
+               <l>Should prudently avoid our former Fate:</l>
+               <l>So an Old <hi>Mariner,</hi> by Tempest split</l>
+               <l>Upon a Rock, again remembers it,</l>
+               <pb facs="tcp:99278:2"/>
+               <l>And with a dear bought Skill will turn aside</l>
+               <l>From the vast Danger, he before had try'd:</l>
+               <l>But senseless <hi>England,</hi> to it self unkind,</l>
+               <l>Will thwart the Happiness the Heaven's Design'd;</l>
+               <l>Wou'd dally with the Fire, and tempt the Flame,</l>
+               <l>That onee had like to have consum'd it's Frame;</l>
+               <l>With matchless boldness, would that Seal repass,</l>
+               <l>In which, the beautious <hi>Island</hi> Ship-wrackt was,</l>
+               <l>Would once more handle these injurious Arms;</l>
+               <l>by which she had received so many Harms.</l>
+               <l>Self-vexing Nation, when all things agree,</l>
+               <l>To make thy Sum up of Felicity</l>
+               <l>Thou, only thou, with a a malicious Hand,</l>
+               <l>Against thy own Advantages wilt stand</l>
+               <l>Ill-natur'd People, who, when they may taste</l>
+               <l>Of every Fruit, within that Compass plac'd:</l>
+               <l>Contemn the proffer and with lustful Eyes,</l>
+               <l>To th' Top of the forbidden Tree will rise,</l>
+               <l>Or possess all, or none of <hi>Paradise:</hi>
+               </l>
+               <l>Remember <hi>England,</hi> how thy Giddy Zeal,</l>
+               <l>For the Supporting of the Common-Weal,</l>
+               <l>Did wilfully your own enthraldom Seal;</l>
+               <l>And is't so long you wore the Chains you wou'd,</l>
+               <l>Again, go under such a servitude.</l>
+               <l>O! rather change your purpose and consent,</l>
+               <l>To the Compleation of thy own content;</l>
+               <l>Sincerely weigh your interest, and youl find,</l>
+               <l>Each honest Subject of another mind,</l>
+               <l>Will alter thoughts, and not with stubborn Pride,</l>
+               <l>But humble Loyalty be beautify'd.</l>
+               <l>Ah! Happy <hi>Island,</hi> if thou coud'st it know,</l>
+               <l>Or wouldst be satisfy'd in being so.</l>
+               <l>Oh! Happy <hi>Islle,</hi> in thy Luxuriant Land,</l>
+               <l>And in Great <hi>JAMES,</hi> who does o're that Command,</l>
+               <l>Like the <hi>Meridian Sun,</hi> he does dispence,</l>
+               <l>O're all the Soil, his fruitful influence;</l>
+               <l>Unclouded let him shine, with glorious Rays,</l>
+               <l>Dispell those Fogs that would eclipse his Face.</l>
+               <l>While strength'ned with the Vigour of his heat,</l>
+               <l>We learn of him to be sincerely great,</l>
+               <l>And better Humours from his influence get:</l>
+               <l>So shall the Land be truly bless'd, He Reign</l>
+               <l>For our Protection, we his Rights maintain.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>R. P.</signed>
+               <dateline>
+                  <date>
+                     <hi>February</hi> the 22th. 1686.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>G. P.</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
